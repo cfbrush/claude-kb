@@ -155,7 +155,7 @@ def main():
                 "protocolVersion": req.get("params", {}).get(
                     "protocolVersion", PROTOCOL_FALLBACK),
                 "capabilities": {"tools": {}},
-                "serverInfo": {"name": "knowledge-base", "version": "1.0.0"},
+                "serverInfo": {"name": "knowledge-base", "version": "0.1.0-alpha"},
             }})
         elif method == "tools/list":
             send({"jsonrpc": "2.0", "id": msg_id,

@@ -6,6 +6,12 @@ Resilio, iCloud...), plus a per-machine vector index for semantic search.
 Claude Code on every machine reads and writes it, so your projects stay
 consistent no matter which computer you work on.
 
+## Version
+
+Current: **0.1.0-alpha** (2026-07-11) — initial release. See
+[Releases](https://github.com/cfbrush/claude-kb-starter/releases) for
+version history.
+
 ## Quick start
 
 1. Clone or download this repo (Code → Download ZIP) anywhere on your
