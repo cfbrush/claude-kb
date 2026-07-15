@@ -1,6 +1,6 @@
 # Claude Knowledge Base — Starter Kit
 
-**For the human:** put this `claude-kb-starter` folder anywhere on your
+**For the human:** put this `claude-kb` folder anywhere on your
 computer, open Claude Code, and say:
 
 > Read BOOTSTRAP.md in <path to this folder> and set up my knowledge base.

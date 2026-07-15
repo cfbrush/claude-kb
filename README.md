@@ -1,4 +1,4 @@
-# claude-kb-starter
+# claude-kb
 
 A cross-machine knowledge base for Claude Code: plain markdown notes in a
 folder you already sync between computers (Dropbox, OneDrive, Syncthing,
@@ -9,7 +9,7 @@ consistent no matter which computer you work on.
 ## Version
 
 Current: **0.1.0-alpha** (2026-07-11) — initial release. See
-[Releases](https://github.com/cfbrush/claude-kb-starter/releases) for
+[Releases](https://github.com/cfbrush/claude-kb/releases) for
 version history.
 
 ## Quick start
